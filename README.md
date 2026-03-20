@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Afkari
 - 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on building sfml for m1 and m2 chips
 - 📫 How to reach me afkarizergaw12@gmail.com
 
 
