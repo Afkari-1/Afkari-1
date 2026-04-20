@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Afkari
-- 🌱 I’m currently learning computer science
+- 🌱 Computer science student interested in software engineering using python or c++ and data structure implementations
 - 📫 How to reach me afkarizergaw12@gmail.com
 
 
